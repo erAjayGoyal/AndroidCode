@@ -1,4 +1,4 @@
-package oceanhntt.carnival.com.myapplication;
+package oceanhntt.carnival.com.myapplication.viewpager;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

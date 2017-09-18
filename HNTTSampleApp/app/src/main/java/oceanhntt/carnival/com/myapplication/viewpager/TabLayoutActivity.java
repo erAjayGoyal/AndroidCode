@@ -1,9 +1,11 @@
-package oceanhntt.carnival.com.myapplication;
+package oceanhntt.carnival.com.myapplication.viewpager;
 
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
+
+import oceanhntt.carnival.com.myapplication.R;
 
 /**
  * Created by ajay.goyal on 9/18/2017.
